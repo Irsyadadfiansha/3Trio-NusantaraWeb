@@ -1,0 +1,327 @@
+{ [
+        {
+            "id": "CT001",
+            "culture_id": "CUL001",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT002",
+            "culture_id": "CUL001",
+            "tag_id": "TAGC011"
+        },
+        {
+            "id": "CT003",
+            "culture_id": "CUL001",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT004",
+            "culture_id": "CUL002",
+            "tag_id": "TAGC002"
+        },
+        {
+            "id": "CT005",
+            "culture_id": "CUL002",
+            "tag_id": "TAGC012"
+        },
+        {
+            "id": "CT006",
+            "culture_id": "CUL002",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT007",
+            "culture_id": "CUL003",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT008",
+            "culture_id": "CUL003",
+            "tag_id": "TAGC010"
+        },
+        {
+            "id": "CT009",
+            "culture_id": "CUL003",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT010",
+            "culture_id": "CUL004",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT011",
+            "culture_id": "CUL004",
+            "tag_id": "TAGC011"
+        },
+        {
+            "id": "CT012",
+            "culture_id": "CUL004",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT013",
+            "culture_id": "CUL005",
+            "tag_id": "TAGC001"
+        },
+        {
+            "id": "CT014",
+            "culture_id": "CUL005",
+            "tag_id": "TAGC004"
+        },
+        {
+            "id": "CT015",
+            "culture_id": "CUL005",
+            "tag_id": "TAGC006"
+        },
+        {
+            "id": "CT016",
+            "culture_id": "CUL005",
+            "tag_id": "TAGC019"
+        },
+
+        {
+            "id": "CT017",
+            "culture_id": "CUL006",
+            "tag_id": "TAGC001"
+        },
+        {
+            "id": "CT018",
+            "culture_id": "CUL006",
+            "tag_id": "TAGC006"
+        },
+        {
+            "id": "CT019",
+            "culture_id": "CUL006",
+            "tag_id": "TAGC020"
+        },
+
+        {
+            "id": "CT020",
+            "culture_id": "CUL007",
+            "tag_id": "TAGC002"
+        },
+        {
+            "id": "CT021",
+            "culture_id": "CUL007",
+            "tag_id": "TAGC008"
+        },
+        {
+            "id": "CT022",
+            "culture_id": "CUL007",
+            "tag_id": "TAGC019"
+        },
+
+        {
+            "id": "CT023",
+            "culture_id": "CUL008",
+            "tag_id": "TAGC002"
+        },
+        {
+            "id": "CT024",
+            "culture_id": "CUL008",
+            "tag_id": "TAGC016"
+        },
+        {
+            "id": "CT025",
+            "culture_id": "CUL008",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT026",
+            "culture_id": "CUL009",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT027",
+            "culture_id": "CUL009",
+            "tag_id": "TAGC013"
+        },
+        {
+            "id": "CT028",
+            "culture_id": "CUL009",
+            "tag_id": "TAGC007"
+        },
+
+        {
+            "id": "CT029",
+            "culture_id": "CUL010",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT030",
+            "culture_id": "CUL010",
+            "tag_id": "TAGC010"
+        },
+        {
+            "id": "CT031",
+            "culture_id": "CUL010",
+            "tag_id": "TAGC002"
+        },
+
+        {
+            "id": "CT032",
+            "culture_id": "CUL011",
+            "tag_id": "TAGC002"
+        },
+        {
+            "id": "CT033",
+            "culture_id": "CUL011",
+            "tag_id": "TAGC012"
+        },
+        {
+            "id": "CT034",
+            "culture_id": "CUL011",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT035",
+            "culture_id": "CUL012",
+            "tag_id": "TAGC002"
+        },
+        {
+            "id": "CT036",
+            "culture_id": "CUL012",
+            "tag_id": "TAGC012"
+        },
+        {
+            "id": "CT037",
+            "culture_id": "CUL012",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT038",
+            "culture_id": "CUL013",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT039",
+            "culture_id": "CUL013",
+            "tag_id": "TAGC011"
+        },
+        {
+            "id": "CT040",
+            "culture_id": "CUL013",
+            "tag_id": "TAGC016"
+        },
+
+        {
+            "id": "CT041",
+            "culture_id": "CUL014",
+            "tag_id": "TAGC001"
+        },
+        {
+            "id": "CT042",
+            "culture_id": "CUL014",
+            "tag_id": "TAGC015"
+        },
+        {
+            "id": "CT043",
+            "culture_id": "CUL014",
+            "tag_id": "TAGC019"
+        },
+
+        {
+            "id": "CT044",
+            "culture_id": "CUL015",
+            "tag_id": "TAGC001"
+        },
+        {
+            "id": "CT045",
+            "culture_id": "CUL015",
+            "tag_id": "TAGC004"
+        },
+        {
+            "id": "CT046",
+            "culture_id": "CUL015",
+            "tag_id": "TAGC006"
+        },
+
+        {
+            "id": "CT047",
+            "culture_id": "CUL016",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT048",
+            "culture_id": "CUL016",
+            "tag_id": "TAGC008"
+        },
+        {
+            "id": "CT049",
+            "culture_id": "CUL016",
+            "tag_id": "TAGC007"
+        },
+
+        {
+            "id": "CT050",
+            "culture_id": "CUL017",
+            "tag_id": "TAGC003"
+        },
+        {
+            "id": "CT051",
+            "culture_id": "CUL017",
+            "tag_id": "TAGC011"
+        },
+        {
+            "id": "CT052",
+            "culture_id": "CUL017",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT053",
+            "culture_id": "CUL018",
+            "tag_id": "TAGC002"
+        },
+        {
+            "id": "CT054",
+            "culture_id": "CUL018",
+            "tag_id": "TAGC013"
+        },
+        {
+            "id": "CT055",
+            "culture_id": "CUL018",
+            "tag_id": "TAGC008"
+        },
+
+        {
+            "id": "CT056",
+            "culture_id": "CUL019",
+            "tag_id": "TAGC005"
+        },
+        {
+            "id": "CT057",
+            "culture_id": "CUL019",
+            "tag_id": "TAGC008"
+        },
+        {
+            "id": "CT058",
+            "culture_id": "CUL019",
+            "tag_id": "TAGC021"
+        },
+
+        {
+            "id": "CT059",
+            "culture_id": "CUL020",
+            "tag_id": "TAGC009"
+        },
+        {
+            "id": "CT060",
+            "culture_id": "CUL020",
+            "tag_id": "TAGC004"
+        },
+        {
+            "id": "CT061",
+            "culture_id": "CUL020",
+            "tag_id": "TAGC007"
+        }
+    ]
+}

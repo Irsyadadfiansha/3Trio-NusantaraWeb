@@ -1,0 +1,757 @@
+[
+    {
+        "id": "KLRHN01",
+        "id_kecamatan": "KCMTN01",
+        "name": "Campaka"
+    },
+    {
+        "id": "KLRHN02",
+        "id_kecamatan": "KCMTN01",
+        "name": "Ciroyom"
+    },
+    {
+        "id": "KLRHN03",
+        "id_kecamatan": "KCMTN01",
+        "name": "Dunguscariang"
+    },
+    {
+        "id": "KLRHN04",
+        "id_kecamatan": "KCMTN01",
+        "name": "Garuda"
+    },
+    {
+        "id": "KLRHN05",
+        "id_kecamatan": "KCMTN01",
+        "name": "Kebonjeruk"
+    },
+    {
+        "id": "KLRHN06",
+        "id_kecamatan": "KCMTN01",
+        "name": "Maleber"
+    },
+    {
+        "id": "KLRHN07",
+        "id_kecamatan": "KCMTN02",
+        "name": "Antapani Kidul"
+    },
+    {
+        "id": "KLRHN08",
+        "id_kecamatan": "KCMTN02",
+        "name": "Antapani Kulon"
+    },
+    {
+        "id": "KLRHN09",
+        "id_kecamatan": "KCMTN02",
+        "name": "Antapani Tengah"
+    },
+    {
+        "id": "KLRHN10",
+        "id_kecamatan": "KCMTN02",
+        "name": "Antapani Wetan"
+    },
+    {
+        "id": "KLRHN11",
+        "id_kecamatan": "KCMTN03",
+        "name": "Cisaranten Bina Harapan"
+    },
+    {
+        "id": "KLRHN12",
+        "id_kecamatan": "KCMTN03",
+        "name": "Cisaranten Endah"
+    },
+    {
+        "id": "KLRHN13",
+        "id_kecamatan": "KCMTN03",
+        "name": "Cisaranten Kulon"
+    },
+    {
+        "id": "KLRHN14",
+        "id_kecamatan": "KCMTN03",
+        "name": "Sukamiskin"
+    },
+    {
+        "id": "KLRHN15",
+        "id_kecamatan": "KCMTN04",
+        "name": "Cibadak"
+    },
+    {
+        "id": "KLRHN16",
+        "id_kecamatan": "KCMTN04",
+        "name": "Karanganyar"
+    },
+    {
+        "id": "KLRHN17",
+        "id_kecamatan": "KCMTN04",
+        "name": "Karasak"
+    },
+    {
+        "id": "KLRHN18",
+        "id_kecamatan": "KCMTN04",
+        "name": "Nyengseret"
+    },
+    {
+        "id": "KLRHN19",
+        "id_kecamatan": "KCMTN04",
+        "name": "Panjunan"
+    },
+    {
+        "id": "KLRHN20",
+        "id_kecamatan": "KCMTN04",
+        "name": "Pelindunghewan"
+    },
+    {
+        "id": "KLRHN21",
+        "id_kecamatan": "KCMTN05",
+        "name": "Babakan"
+    },
+    {
+        "id": "KLRHN22",
+        "id_kecamatan": "KCMTN05",
+        "name": "Babakan Ciparay"
+    },
+    {
+        "id": "KLRHN23",
+        "id_kecamatan": "KCMTN05",
+        "name": "Cirangrang"
+    },
+    {
+        "id": "KLRHN24",
+        "id_kecamatan": "KCMTN05",
+        "name": "Margahayu Utara"
+    },
+    {
+        "id": "KLRHN25",
+        "id_kecamatan": "KCMTN05",
+        "name": "Margasuka"
+    },
+    {
+        "id": "KLRHN26",
+        "id_kecamatan": "KCMTN05",
+        "name": "Sukahaji"
+    },
+    {
+        "id": "KLRHN27",
+        "id_kecamatan": "KCMTN06",
+        "name": "Batununggal"
+    },
+    {
+        "id": "KLRHN28",
+        "id_kecamatan": "KCMTN06",
+        "name": "Kujangsari"
+    },
+    {
+        "id": "KLRHN29",
+        "id_kecamatan": "KCMTN06",
+        "name": "Mengger"
+    },
+    {
+        "id": "KLRHN30",
+        "id_kecamatan": "KCMTN06",
+        "name": "Wates"
+    },
+    {
+        "id": "KLRHN31",
+        "id_kecamatan": "KCMTN07",
+        "name": "Caringin"
+    },
+    {
+        "id": "KLRHN32",
+        "id_kecamatan": "KCMTN07",
+        "name": "Cibuntu"
+    },
+    {
+        "id": "KLRHN33",
+        "id_kecamatan": "KCMTN07",
+        "name": "Cigondewah Kaler"
+    },
+    {
+        "id": "KLRHN34",
+        "id_kecamatan": "KCMTN07",
+        "name": "Cigondewah Kidul"
+    },
+    {
+        "id": "KLRHN35",
+        "id_kecamatan": "KCMTN07",
+        "name": "Cigondewah Rahayu"
+    },
+    {
+        "id": "KLRHN36",
+        "id_kecamatan": "KCMTN07",
+        "name": "Cijerah"
+    },
+    {
+        "id": "KLRHN37",
+        "id_kecamatan": "KCMTN07",
+        "name": "Gempolsari"
+    },
+    {
+        "id": "KLRHN38",
+        "id_kecamatan": "KCMTN07",
+        "name": "Warungmuncang"
+    },
+    {
+        "id": "KLRHN39",
+        "id_kecamatan": "KCMTN08",
+        "name": "Cihapit"
+    },
+    {
+        "id": "KLRHN40",
+        "id_kecamatan": "KCMTN08",
+        "name": "Citarum"
+    },
+    {
+        "id": "KLRHN41",
+        "id_kecamatan": "KCMTN08",
+        "name": "Tamansari"
+    },
+    {
+        "id": "KLRHN42",
+        "id_kecamatan": "KCMTN09",
+        "name": "Binong"
+    },
+    {
+        "id": "KLRHN43",
+        "id_kecamatan": "KCMTN09",
+        "name": "Cibangkong"
+    },
+    {
+        "id": "KLRHN44",
+        "id_kecamatan": "KCMTN09",
+        "name": "Gumuruh"
+    },
+    {
+        "id": "KLRHN45",
+        "id_kecamatan": "KCMTN09",
+        "name": "Kacapiring"
+    },
+    {
+        "id": "KLRHN46",
+        "id_kecamatan": "KCMTN09",
+        "name": "Kebongedang"
+    },
+    {
+        "id": "KLRHN47",
+        "id_kecamatan": "KCMTN09",
+        "name": "Kebonwaru"
+    },
+    {
+        "id": "KLRHN48",
+        "id_kecamatan": "KCMTN09",
+        "name": "Maleer"
+    },
+    {
+        "id": "KLRHN49",
+        "id_kecamatan": "KCMTN09",
+        "name": "Samoja"
+    },
+    {
+        "id": "KLRHN50",
+        "id_kecamatan": "KCMTN10",
+        "name": "Babakan Asih"
+    },
+    {
+        "id": "KLRHN51",
+        "id_kecamatan": "KCMTN10",
+        "name": "Babakan Tarogong"
+    },
+    {
+        "id": "KLRHN52",
+        "id_kecamatan": "KCMTN10",
+        "name": "Jamika"
+    },
+    {
+        "id": "KLRHN53",
+        "id_kecamatan": "KCMTN10",
+        "name": "Kopo"
+    },
+    {
+        "id": "KLRHN54",
+        "id_kecamatan": "KCMTN10",
+        "name": "Suka Asih"
+    },
+    {
+        "id": "KLRHN55",
+        "id_kecamatan": "KCMTN11",
+        "name": "Cibaduyut"
+    },
+    {
+        "id": "KLRHN56",
+        "id_kecamatan": "KCMTN11",
+        "name": "Cibaduyut Kidul"
+    },
+    {
+        "id": "KLRHN57",
+        "id_kecamatan": "KCMTN11",
+        "name": "Cibaduyut Wetan"
+    },
+    {
+        "id": "KLRHN58",
+        "id_kecamatan": "KCMTN11",
+        "name": "Kebon Lega"
+    },
+    {
+        "id": "KLRHN59",
+        "id_kecamatan": "KCMTN11",
+        "name": "Mekarwangi"
+    },
+    {
+        "id": "KLRHN60",
+        "id_kecamatan": "KCMTN11",
+        "name": "Situsaeur"
+    },
+    {
+        "id": "KLRHN61",
+        "id_kecamatan": "KCMTN12",
+        "name": "Jatisari"
+    },
+    {
+        "id": "KLRHN62",
+        "id_kecamatan": "KCMTN12",
+        "name": "Margasari"
+    },
+    {
+        "id": "KLRHN63",
+        "id_kecamatan": "KCMTN12",
+        "name": "Sekejati"
+    },
+    {
+        "id": "KLRHN64",
+        "id_kecamatan": "KCMTN13",
+        "name": "Cihaur Geulis"
+    },
+    {
+        "id": "KLRHN65",
+        "id_kecamatan": "KCMTN13",
+        "name": "Cigadung"
+    },
+    {
+        "id": "KLRHN66",
+        "id_kecamatan": "KCMTN13",
+        "name": "Neglasari"
+    },
+    {
+        "id": "KLRHN67",
+        "id_kecamatan": "KCMTN13",
+        "name": "Sukaluyu"
+    },
+    {
+        "id": "KLRHN68",
+        "id_kecamatan": "KCMTN14",
+        "name": "Cicadas"
+    },
+    {
+        "id": "KLRHN69",
+        "id_kecamatan": "KCMTN14",
+        "name": "Cikutra"
+    },
+    {
+        "id": "KLRHN70",
+        "id_kecamatan": "KCMTN14",
+        "name": "Padasuka"
+    },
+    {
+        "id": "KLRHN71",
+        "id_kecamatan": "KCMTN14",
+        "name": "Pasirlayung"
+    },
+    {
+        "id": "KLRHN72",
+        "id_kecamatan": "KCMTN14",
+        "name": "Sukamaju"
+    },
+    {
+        "id": "KLRHN73",
+        "id_kecamatan": "KCMTN14",
+        "name": "Sukapada"
+    },
+    {
+        "id": "KLRHN74",
+        "id_kecamatan": "KCMTN15",
+        "name": "Cipadung"
+    },
+    {
+        "id": "KLRHN75",
+        "id_kecamatan": "KCMTN15",
+        "name": "Cisurupan"
+    },
+    {
+        "id": "KLRHN76",
+        "id_kecamatan": "KCMTN15",
+        "name": "Palasari"
+    },
+    {
+        "id": "KLRHN77",
+        "id_kecamatan": "KCMTN15",
+        "name": "Pasir Biru"
+    },
+    {
+        "id": "KLRHN78",
+        "id_kecamatan": "KCMTN16",
+        "name": "Arjuna"
+    },
+    {
+        "id": "KLRHN79",
+        "id_kecamatan": "KCMTN16",
+        "name": "Husen Sastranegara"
+    },
+    {
+        "id": "KLRHN80",
+        "id_kecamatan": "KCMTN16",
+        "name": "Pajajaran"
+    },
+    {
+        "id": "KLRHN81",
+        "id_kecamatan": "KCMTN16",
+        "name": "Pamoyanan"
+    },
+    {
+        "id": "KLRHN82",
+        "id_kecamatan": "KCMTN16",
+        "name": "Pasirkaliki"
+    },
+    {
+        "id": "KLRHN83",
+        "id_kecamatan": "KCMTN16",
+        "name": "Sukaraja"
+    },
+    {
+        "id": "KLRHN84",
+        "id_kecamatan": "KCMTN17",
+        "name": "Ciumbuleuit"
+    },
+    {
+        "id": "KLRHN85",
+        "id_kecamatan": "KCMTN17",
+        "name": "Hegarmanah"
+    },
+    {
+        "id": "KLRHN86",
+        "id_kecamatan": "KCMTN17",
+        "name": "Ledeng"
+    },
+    {
+        "id": "KLRHN87",
+        "id_kecamatan": "KCMTN18",
+        "name": "Babakan Penghulu"
+    },
+    {
+        "id": "KLRHN88",
+        "id_kecamatan": "KCMTN18",
+        "name": "Cisaranten Wetan"
+    },
+    {
+        "id": "KLRHN89",
+        "id_kecamatan": "KCMTN18",
+        "name": "Pakemitan"
+    },
+    {
+        "id": "KLRHN90",
+        "id_kecamatan": "KCMTN18",
+        "name": "Sukamulya"
+    },
+    {
+        "id": "KLRHN91",
+        "id_kecamatan": "KCMTN19",
+        "name": "Cipaganti"
+    },
+    {
+        "id": "KLRHN92",
+        "id_kecamatan": "KCMTN19",
+        "name": "Dago"
+    },
+    {
+        "id": "KLRHN93",
+        "id_kecamatan": "KCMTN19",
+        "name": "Lebakgede"
+    },
+    {
+        "id": "KLRHN94",
+        "id_kecamatan": "KCMTN19",
+        "name": "Lebaksiliwangi"
+    },
+    {
+        "id": "KLRHN95",
+        "id_kecamatan": "KCMTN19",
+        "name": "Sadangserang"
+    },
+    {
+        "id": "KLRHN96",
+        "id_kecamatan": "KCMTN19",
+        "name": "Sekeloa"
+    },
+    {
+        "id": "KLRHN97",
+        "id_kecamatan": "KCMTN20",
+        "name": "Cisaranten Kidul"
+    },
+    {
+        "id": "KLRHN98",
+        "id_kecamatan": "KCMTN20",
+        "name": "Rancabolang"
+    },
+    {
+        "id": "KLRHN99",
+        "id_kecamatan": "KCMTN20",
+        "name": "Rancanumpang"
+    },
+    {
+        "id": "KLRHN100",
+        "id_kecamatan": "KCMTN20",
+        "name": "Cimincrang"
+    },
+    {
+        "id": "KLRHN101",
+        "id_kecamatan": "KCMTN21",
+        "name": "Babakan Sari"
+    },
+    {
+        "id": "KLRHN102",
+        "id_kecamatan": "KCMTN21",
+        "name": "Babakan Surabaya"
+    },
+    {
+        "id": "KLRHN103",
+        "id_kecamatan": "KCMTN21",
+        "name": "Cicaheum"
+    },
+    {
+        "id": "KLRHN104",
+        "id_kecamatan": "KCMTN21",
+        "name": "Kebon Jayanti"
+    },
+    {
+        "id": "KLRHN105",
+        "id_kecamatan": "KCMTN21",
+        "name": "Kebon Kangkung"
+    },
+    {
+        "id": "KLRHN106",
+        "id_kecamatan": "KCMTN21",
+        "name": "Sukapura"
+    },
+    {
+        "id": "KLRHN107",
+        "id_kecamatan": "KCMTN22",
+        "name": "Burangrang"
+    },
+    {
+        "id": "KLRHN108",
+        "id_kecamatan": "KCMTN22",
+        "name": "Cijagra"
+    },
+    {
+        "id": "KLRHN109",
+        "id_kecamatan": "KCMTN22",
+        "name": "Cikawao"
+    },
+    {
+        "id": "KLRHN110",
+        "id_kecamatan": "KCMTN22",
+        "name": "Lingkar Selatan"
+    },
+    {
+        "id": "KLRHN111",
+        "id_kecamatan": "KCMTN22",
+        "name": "Malabar"
+    },
+    {
+        "id": "KLRHN112",
+        "id_kecamatan": "KCMTN22",
+        "name": "Paledang"
+    },
+    {
+        "id": "KLRHN113",
+        "id_kecamatan": "KCMTN22",
+        "name": "Turangga"
+    },
+    {
+        "id": "KLRHN114",
+        "id_kecamatan": "KCMTN23",
+        "name": "Jatihandap"
+    },
+    {
+        "id": "KLRHN115",
+        "id_kecamatan": "KCMTN23",
+        "name": "Karangpamulang"
+    },
+    {
+        "id": "KLRHN116",
+        "id_kecamatan": "KCMTN23",
+        "name": "Pasir Impun"
+    },
+    {
+        "id": "KLRHN117",
+        "id_kecamatan": "KCMTN23",
+        "name": "Sindangjaya"
+    },
+    {
+        "id": "KLRHN118",
+        "id_kecamatan": "KCMTN24",
+        "name": "Cipadung Kidul"
+    },
+    {
+        "id": "KLRHN119",
+        "id_kecamatan": "KCMTN24",
+        "name": "Cipadung Kulon"
+    },
+    {
+        "id": "KLRHN120",
+        "id_kecamatan": "KCMTN24",
+        "name": "Cipadung Wetan"
+    },
+    {
+        "id": "KLRHN121",
+        "id_kecamatan": "KCMTN24",
+        "name": "Mekarmulya"
+    },
+    {
+        "id": "KLRHN122",
+        "id_kecamatan": "KCMTN25",
+        "name": "Cipamokolan"
+    },
+    {
+        "id": "KLRHN123",
+        "id_kecamatan": "KCMTN25",
+        "name": "Darwati"
+    },
+    {
+        "id": "KLRHN124",
+        "id_kecamatan": "KCMTN25",
+        "name": "Manjahlega"
+    },
+    {
+        "id": "KLRHN125",
+        "id_kecamatan": "KCMTN25",
+        "name": "Mekarjaya"
+    },
+    {
+        "id": "KLRHN126",
+        "id_kecamatan": "KCMTN26",
+        "name": "Balonggede"
+    },
+    {
+        "id": "KLRHN127",
+        "id_kecamatan": "KCMTN26",
+        "name": "Ciateul"
+    },
+    {
+        "id": "KLRHN128",
+        "id_kecamatan": "KCMTN26",
+        "name": "Cigereleng"
+    },
+    {
+        "id": "KLRHN129",
+        "id_kecamatan": "KCMTN26",
+        "name": "Ciseureuh"
+    },
+    {
+        "id": "KLRHN130",
+        "id_kecamatan": "KCMTN26",
+        "name": "Pasirluyu"
+    },
+    {
+        "id": "KLRHN131",
+        "id_kecamatan": "KCMTN26",
+        "name": "Pungkur"
+    },
+    {
+        "id": "KLRHN132",
+        "id_kecamatan": "KCMTN27",
+        "name": "Cipedes"
+    },
+    {
+        "id": "KLRHN133",
+        "id_kecamatan": "KCMTN27",
+        "name": "Pasteur"
+    },
+    {
+        "id": "KLRHN134",
+        "id_kecamatan": "KCMTN27",
+        "name": "Sukagalih"
+    },
+    {
+        "id": "KLRHN135",
+        "id_kecamatan": "KCMTN27",
+        "name": "Sukajadi"
+    },
+    {
+        "id": "KLRHN136",
+        "id_kecamatan": "KCMTN27",
+        "name": "Sukawarna"
+    },
+    {
+        "id": "KLRHN137",
+        "id_kecamatan": "KCMTN28",
+        "name": "Gegerkalong"
+    },
+    {
+        "id": "KLRHN138",
+        "id_kecamatan": "KCMTN28",
+        "name": "Isola"
+    },
+    {
+        "id": "KLRHN139",
+        "id_kecamatan": "KCMTN28",
+        "name": "Sarijadi"
+    },
+    {
+        "id": "KLRHN140",
+        "id_kecamatan": "KCMTN28",
+        "name": "Sukasari"
+    },
+    {
+        "id": "KLRHN141",
+        "id_kecamatan": "KCMTN29",
+        "name": "Babakan Ciamis"
+    },
+    {
+        "id": "KLRHN142",
+        "id_kecamatan": "KCMTN29",
+        "name": "Braga"
+    },
+    {
+        "id": "KLRHN143",
+        "id_kecamatan": "KCMTN29",
+        "name": "Kebon Pisang"
+    },
+    {
+        "id": "KLRHN144",
+        "id_kecamatan": "KCMTN29",
+        "name": "Merdeka"
+    },
+    {
+        "id": "KLRHN145",
+        "id_kecamatan": "KCMTN30",
+        "name": "Cigengeng"
+    },
+    {
+        "id": "KLRHN146",
+        "id_kecamatan": "KCMTN30",
+        "name": "Pasir Endah"
+    },
+    {
+        "id": "KLRHN147",
+        "id_kecamatan": "KCMTN30",
+        "name": "Pasir Jati"
+    },
+    {
+        "id": "KLRHN148",
+        "id_kecamatan": "KCMTN30",
+        "name": "Pasir Wangi"
+    },
+    {
+        "id": "KLRHN149",
+        "id_kecamatan": "KCMTN30",
+        "name": "Pasanggrahan"
+    },
+    {
+        "id": "KLRHN150",
+        "id_kecamatan": "KCMTN30",
+        "name": "Ujungberung"
+    },
+    {
+        "id": "KLRHN151",
+        "id_kecamatan": "KCMTN12",
+        "name": "Kujangsari"
+    }
+]

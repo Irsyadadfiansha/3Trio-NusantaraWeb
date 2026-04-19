@@ -1,0 +1,143 @@
+{[
+        {
+            "id": "CUL001",
+            "nama": "Angklung",
+            "description": "Alat musik tradisional dari Jawa Barat yang terbuat dari bambu dan dimainkan dengan cara digoyangkan.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL002",
+            "nama": "Seblak",
+            "description": "Makanan khas Bandung dengan cita rasa pedas dan gurih berbahan kerupuk basah.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL003",
+            "nama": "Jaipongan",
+            "description": "Tarian tradisional Sunda yang enerjik dan menjadi identitas seni pertunjukan Jawa Barat.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL004",
+            "nama": "Wayang Golek",
+            "description": "Seni pertunjukan boneka kayu khas Sunda yang digunakan untuk menceritakan kisah tradisional.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL005",
+            "nama": "Gedung Sate",
+            "description": "Bangunan bersejarah peninggalan kolonial Belanda yang menjadi ikon Kota Bandung.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL006",
+            "nama": "Konferensi Asia Afrika",
+            "description": "Peristiwa sejarah penting tahun 1955 di Bandung yang mempertemukan negara-negara Asia dan Afrika.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL007",
+            "nama": "Upacara Seren Taun",
+            "description": "Tradisi masyarakat Sunda sebagai ungkapan syukur atas hasil panen.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL008",
+            "nama": "Kampung Adat Cikondang",
+            "description": "Kawasan budaya yang masih mempertahankan tradisi dan arsitektur Sunda asli.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL009",
+            "nama": "Batik Bandung",
+            "description": "Batik khas Bandung dengan motif modern dan sentuhan budaya lokal Sunda.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL010",
+            "nama": "Sisingaan",
+            "description": "Seni pertunjukan tradisional berupa arak-arakan anak dengan tandu berbentuk singa.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL011",
+            "nama": "Karedok",
+            "description": "Makanan tradisional Sunda berupa sayuran mentah dengan bumbu kacang.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL012",
+            "nama": "Lotek",
+            "description": "Hidangan khas Sunda mirip gado-gado dengan bumbu kacang yang khas.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL013",
+            "nama": "Saung Angklung Udjo",
+            "description": "Tempat pertunjukan seni budaya Sunda yang memperkenalkan angklung ke dunia.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL014",
+            "nama": "Gedung Merdeka",
+            "description": "Bangunan bersejarah tempat berlangsungnya Konferensi Asia Afrika.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL015",
+            "nama": "Braga Heritage",
+            "description": "Kawasan bersejarah dengan bangunan bergaya kolonial yang masih terjaga.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL016",
+            "nama": "Pencak Silat Sunda",
+            "description": "Seni bela diri tradisional yang mengandung nilai budaya dan filosofi Sunda.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL017",
+            "nama": "Rampak Kendang",
+            "description": "Pertunjukan musik tradisional dengan kendang yang dimainkan secara berkelompok.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL018",
+            "nama": "Noken Sunda",
+            "description": "Tas tradisional berbahan alami yang digunakan oleh masyarakat Sunda.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL019",
+            "nama": "Festival Braga",
+            "description": "Festival tahunan yang menampilkan seni, budaya, dan kuliner di kawasan Braga.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        },
+        {
+            "id": "CUL020",
+            "nama": "Masjid Raya Bandung",
+            "description": "Bangunan religi ikonik dengan arsitektur modern dan nilai sejarah tinggi.",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-01-02"
+        }
+    ]
+}

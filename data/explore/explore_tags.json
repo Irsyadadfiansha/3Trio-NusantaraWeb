@@ -1,0 +1,521 @@
+[
+        {
+            "id": "DT001",
+            "destination_id": "DST001",
+            "tag_id": "TAGD005"
+        },
+        {
+            "id": "DT002",
+            "destination_id": "DST001",
+            "tag_id": "TAGD011"
+        },
+        {
+            "id": "DT003",
+            "destination_id": "DST001",
+            "tag_id": "TAGD009"
+        },
+        {
+            "id": "DT004",
+            "destination_id": "DST001",
+            "tag_id": "TAGD023"
+        },
+        {
+            "id": "DT005",
+            "destination_id": "DST001",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT006",
+            "destination_id": "DST002",
+            "tag_id": "TAGD005"
+        },
+        {
+            "id": "DT007",
+            "destination_id": "DST002",
+            "tag_id": "TAGD014"
+        },
+        {
+            "id": "DT008",
+            "destination_id": "DST002",
+            "tag_id": "TAGD009"
+        },
+        {
+            "id": "DT009",
+            "destination_id": "DST002",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT010",
+            "destination_id": "DST002",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT011",
+            "destination_id": "DST003",
+            "tag_id": "TAGD005"
+        },
+        {
+            "id": "DT012",
+            "destination_id": "DST003",
+            "tag_id": "TAGD009"
+        },
+        {
+            "id": "DT013",
+            "destination_id": "DST003",
+            "tag_id": "TAGD023"
+        },
+        {
+            "id": "DT014",
+            "destination_id": "DST003",
+            "tag_id": "TAGD029"
+        },
+        {
+            "id": "DT015",
+            "destination_id": "DST003",
+            "tag_id": "TAGD018"
+        },
+
+        {
+            "id": "DT016",
+            "destination_id": "DST004",
+            "tag_id": "TAGD001"
+        },
+        {
+            "id": "DT017",
+            "destination_id": "DST004",
+            "tag_id": "TAGD007"
+        },
+        {
+            "id": "DT018",
+            "destination_id": "DST004",
+            "tag_id": "TAGD010"
+        },
+        {
+            "id": "DT019",
+            "destination_id": "DST004",
+            "tag_id": "TAGD016"
+        },
+        {
+            "id": "DT020",
+            "destination_id": "DST004",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT021",
+            "destination_id": "DST005",
+            "tag_id": "TAGD004"
+        },
+        {
+            "id": "DT022",
+            "destination_id": "DST005",
+            "tag_id": "TAGD010"
+        },
+        {
+            "id": "DT023",
+            "destination_id": "DST005",
+            "tag_id": "TAGD011"
+        },
+        {
+            "id": "DT024",
+            "destination_id": "DST005",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT025",
+            "destination_id": "DST005",
+            "tag_id": "TAGD016"
+        },
+
+        {
+            "id": "DT026",
+            "destination_id": "DST006",
+            "tag_id": "TAGD013"
+        },
+        {
+            "id": "DT027",
+            "destination_id": "DST006",
+            "tag_id": "TAGD011"
+        },
+        {
+            "id": "DT028",
+            "destination_id": "DST006",
+            "tag_id": "TAGD019"
+        },
+        {
+            "id": "DT029",
+            "destination_id": "DST006",
+            "tag_id": "TAGD027"
+        },
+        {
+            "id": "DT030",
+            "destination_id": "DST006",
+            "tag_id": "TAGD029"
+        },
+
+        {
+            "id": "DT031",
+            "destination_id": "DST007",
+            "tag_id": "TAGD014"
+        },
+        {
+            "id": "DT032",
+            "destination_id": "DST007",
+            "tag_id": "TAGD011"
+        },
+        {
+            "id": "DT033",
+            "destination_id": "DST007",
+            "tag_id": "TAGD016"
+        },
+        {
+            "id": "DT034",
+            "destination_id": "DST007",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT035",
+            "destination_id": "DST007",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT036",
+            "destination_id": "DST008",
+            "tag_id": "TAGD005"
+        },
+        {
+            "id": "DT037",
+            "destination_id": "DST008",
+            "tag_id": "TAGD014"
+        },
+        {
+            "id": "DT038",
+            "destination_id": "DST008",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT039",
+            "destination_id": "DST008",
+            "tag_id": "TAGD016"
+        },
+        {
+            "id": "DT040",
+            "destination_id": "DST008",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT041",
+            "destination_id": "DST009",
+            "tag_id": "TAGD013"
+        },
+        {
+            "id": "DT042",
+            "destination_id": "DST009",
+            "tag_id": "TAGD011"
+        },
+        {
+            "id": "DT043",
+            "destination_id": "DST009",
+            "tag_id": "TAGD019"
+        },
+        {
+            "id": "DT044",
+            "destination_id": "DST009",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT045",
+            "destination_id": "DST009",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT046",
+            "destination_id": "DST010",
+            "tag_id": "TAGD012"
+        },
+        {
+            "id": "DT047",
+            "destination_id": "DST010",
+            "tag_id": "TAGD009"
+        },
+        {
+            "id": "DT048",
+            "destination_id": "DST010",
+            "tag_id": "TAGD023"
+        },
+        {
+            "id": "DT049",
+            "destination_id": "DST010",
+            "tag_id": "TAGD029"
+        },
+        {
+            "id": "DT050",
+            "destination_id": "DST010",
+            "tag_id": "TAGD018"
+        },
+
+        {
+            "id": "DT051",
+            "destination_id": "DST011",
+            "tag_id": "TAGD006"
+        },
+        {
+            "id": "DT052",
+            "destination_id": "DST011",
+            "tag_id": "TAGD014"
+        },
+        {
+            "id": "DT053",
+            "destination_id": "DST011",
+            "tag_id": "TAGD016"
+        },
+        {
+            "id": "DT054",
+            "destination_id": "DST011",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT055",
+            "destination_id": "DST011",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT056",
+            "destination_id": "DST012",
+            "tag_id": "TAGD004"
+        },
+        {
+            "id": "DT057",
+            "destination_id": "DST012",
+            "tag_id": "TAGD010"
+        },
+        {
+            "id": "DT058",
+            "destination_id": "DST012",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT059",
+            "destination_id": "DST012",
+            "tag_id": "TAGD017"
+        },
+        {
+            "id": "DT060",
+            "destination_id": "DST012",
+            "tag_id": "TAGD028"
+        },
+
+        {
+            "id": "DT061",
+            "destination_id": "DST013",
+            "tag_id": "TAGD013"
+        },
+        {
+            "id": "DT062",
+            "destination_id": "DST013",
+            "tag_id": "TAGD023"
+        },
+        {
+            "id": "DT063",
+            "destination_id": "DST013",
+            "tag_id": "TAGD018"
+        },
+        {
+            "id": "DT064",
+            "destination_id": "DST013",
+            "tag_id": "TAGD029"
+        },
+        {
+            "id": "DT065",
+            "destination_id": "DST013",
+            "tag_id": "TAGD009"
+        },
+
+        {
+            "id": "DT066",
+            "destination_id": "DST014",
+            "tag_id": "TAGD004"
+        },
+        {
+            "id": "DT067",
+            "destination_id": "DST014",
+            "tag_id": "TAGD009"
+        },
+        {
+            "id": "DT068",
+            "destination_id": "DST014",
+            "tag_id": "TAGD018"
+        },
+        {
+            "id": "DT069",
+            "destination_id": "DST014",
+            "tag_id": "TAGD028"
+        },
+        {
+            "id": "DT070",
+            "destination_id": "DST014",
+            "tag_id": "TAGD020"
+        },
+
+        {
+            "id": "DT071",
+            "destination_id": "DST015",
+            "tag_id": "TAGD004"
+        },
+        {
+            "id": "DT072",
+            "destination_id": "DST015",
+            "tag_id": "TAGD011"
+        },
+        {
+            "id": "DT073",
+            "destination_id": "DST015",
+            "tag_id": "TAGD019"
+        },
+        {
+            "id": "DT074",
+            "destination_id": "DST015",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT075",
+            "destination_id": "DST015",
+            "tag_id": "TAGD009"
+        },
+
+        {
+            "id": "DT076",
+            "destination_id": "DST016",
+            "tag_id": "TAGD006"
+        },
+        {
+            "id": "DT077",
+            "destination_id": "DST016",
+            "tag_id": "TAGD014"
+        },
+        {
+            "id": "DT078",
+            "destination_id": "DST016",
+            "tag_id": "TAGD020"
+        },
+        {
+            "id": "DT079",
+            "destination_id": "DST016",
+            "tag_id": "TAGD027"
+        },
+        {
+            "id": "DT080",
+            "destination_id": "DST016",
+            "tag_id": "TAGD005"
+        },
+
+        {
+            "id": "DT081",
+            "destination_id": "DST017",
+            "tag_id": "TAGD012"
+        },
+        {
+            "id": "DT082",
+            "destination_id": "DST017",
+            "tag_id": "TAGD023"
+        },
+        {
+            "id": "DT083",
+            "destination_id": "DST017",
+            "tag_id": "TAGD016"
+        },
+        {
+            "id": "DT084",
+            "destination_id": "DST017",
+            "tag_id": "TAGD027"
+        },
+        {
+            "id": "DT085",
+            "destination_id": "DST017",
+            "tag_id": "TAGD029"
+        },
+
+        {
+            "id": "DT086",
+            "destination_id": "DST018",
+            "tag_id": "TAGD012"
+        },
+        {
+            "id": "DT087",
+            "destination_id": "DST018",
+            "tag_id": "TAGD013"
+        },
+        {
+            "id": "DT088",
+            "destination_id": "DST018",
+            "tag_id": "TAGD016"
+        },
+        {
+            "id": "DT089",
+            "destination_id": "DST018",
+            "tag_id": "TAGD027"
+        },
+        {
+            "id": "DT090",
+            "destination_id": "DST018",
+            "tag_id": "TAGD023"
+        },
+
+        {
+            "id": "DT091",
+            "destination_id": "DST019",
+            "tag_id": "TAGD012"
+        },
+        {
+            "id": "DT092",
+            "destination_id": "DST019",
+            "tag_id": "TAGD013"
+        },
+        {
+            "id": "DT093",
+            "destination_id": "DST019",
+            "tag_id": "TAGD017"
+        },
+        {
+            "id": "DT094",
+            "destination_id": "DST019",
+            "tag_id": "TAGD009"
+        },
+        {
+            "id": "DT095",
+            "destination_id": "DST019",
+            "tag_id": "TAGD027"
+        },
+
+        {
+            "id": "DT096",
+            "destination_id": "DST020",
+            "tag_id": "TAGD012"
+        },
+        {
+            "id": "DT097",
+            "destination_id": "DST020",
+            "tag_id": "TAGD013"
+        },
+        {
+            "id": "DT098",
+            "destination_id": "DST020",
+            "tag_id": "TAGD017"
+        },
+        {
+            "id": "DT099",
+            "destination_id": "DST020",
+            "tag_id": "TAGD009"
+        },
+        {
+            "id": "DT100",
+            "destination_id": "DST020",
+            "tag_id": "TAGD027"
+        }
+]

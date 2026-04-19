@@ -1,0 +1,361 @@
+ [
+        {
+            "id": "CL001",
+            "culinary_id": "CLN101",
+            "tag_id": "TAGK002"
+        },
+        {
+            "id": "CL002",
+            "culinary_id": "CLN101",
+            "tag_id": "TAGK011"
+        },
+        {
+            "id": "CL003",
+            "culinary_id": "CLN101",
+            "tag_id": "TAGK014"
+        },
+        {
+            "id": "CL004",
+            "culinary_id": "CLN101",
+            "tag_id": "TAGK016"
+        },
+        {
+            "id": "CL005",
+            "culinary_id": "CLN101",
+            "tag_id": "TAGK024"
+        },
+        {
+            "id": "CL006",
+            "culinary_id": "CLN101",
+            "tag_id": "TAGK027"
+        },
+        {
+            "id": "CL007",
+            "culinary_id": "CLN101",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL008",
+            "culinary_id": "CLN102",
+            "tag_id": "TAGK001"
+        },
+        {
+            "id": "CL009",
+            "culinary_id": "CLN102",
+            "tag_id": "TAGK014"
+        },
+        {
+            "id": "CL010",
+            "culinary_id": "CLN102",
+            "tag_id": "TAGK015"
+        },
+        {
+            "id": "CL011",
+            "culinary_id": "CLN102",
+            "tag_id": "TAGK020"
+        },
+        {
+            "id": "CL012",
+            "culinary_id": "CLN102",
+            "tag_id": "TAGK026"
+        },
+        {
+            "id": "CL013",
+            "culinary_id": "CLN102",
+            "tag_id": "TAGK028"
+        },
+        {
+            "id": "CL014",
+            "culinary_id": "CLN102",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL015",
+            "culinary_id": "CLN103",
+            "tag_id": "TAGK002"
+        },
+        {
+            "id": "CL016",
+            "culinary_id": "CLN103",
+            "tag_id": "TAGK011"
+        },
+        {
+            "id": "CL017",
+            "culinary_id": "CLN103",
+            "tag_id": "TAGK012"
+        },
+        {
+            "id": "CL018",
+            "culinary_id": "CLN103",
+            "tag_id": "TAGK016"
+        },
+        {
+            "id": "CL019",
+            "culinary_id": "CLN103",
+            "tag_id": "TAGK019"
+        },
+        {
+            "id": "CL020",
+            "culinary_id": "CLN103",
+            "tag_id": "TAGK027"
+        },
+        {
+            "id": "CL021",
+            "culinary_id": "CLN103",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL022",
+            "culinary_id": "CLN104",
+            "tag_id": "TAGK001"
+        },
+        {
+            "id": "CL023",
+            "culinary_id": "CLN104",
+            "tag_id": "TAGK011"
+        },
+        {
+            "id": "CL024",
+            "culinary_id": "CLN104",
+            "tag_id": "TAGK032"
+        },
+        {
+            "id": "CL025",
+            "culinary_id": "CLN104",
+            "tag_id": "TAGK016"
+        },
+        {
+            "id": "CL026",
+            "culinary_id": "CLN104",
+            "tag_id": "TAGK024"
+        },
+        {
+            "id": "CL027",
+            "culinary_id": "CLN104",
+            "tag_id": "TAGK026"
+        },
+        {
+            "id": "CL028",
+            "culinary_id": "CLN104",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL029",
+            "culinary_id": "CLN105",
+            "tag_id": "TAGK002"
+        },
+        {
+            "id": "CL030",
+            "culinary_id": "CLN105",
+            "tag_id": "TAGK011"
+        },
+        {
+            "id": "CL031",
+            "culinary_id": "CLN105",
+            "tag_id": "TAGK014"
+        },
+        {
+            "id": "CL032",
+            "culinary_id": "CLN105",
+            "tag_id": "TAGK016"
+        },
+        {
+            "id": "CL033",
+            "culinary_id": "CLN105",
+            "tag_id": "TAGK019"
+        },
+        {
+            "id": "CL034",
+            "culinary_id": "CLN105",
+            "tag_id": "TAGK027"
+        },
+        {
+            "id": "CL035",
+            "culinary_id": "CLN105",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL036",
+            "culinary_id": "CLN106",
+            "tag_id": "TAGK002"
+        },
+        {
+            "id": "CL037",
+            "culinary_id": "CLN106",
+            "tag_id": "TAGK012"
+        },
+        {
+            "id": "CL038",
+            "culinary_id": "CLN106",
+            "tag_id": "TAGK029"
+        },
+        {
+            "id": "CL039",
+            "culinary_id": "CLN106",
+            "tag_id": "TAGK016"
+        },
+        {
+            "id": "CL040",
+            "culinary_id": "CLN106",
+            "tag_id": "TAGK025"
+        },
+        {
+            "id": "CL041",
+            "culinary_id": "CLN106",
+            "tag_id": "TAGK028"
+        },
+        {
+            "id": "CL042",
+            "culinary_id": "CLN106",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL043",
+            "culinary_id": "CLN107",
+            "tag_id": "TAGK001"
+        },
+        {
+            "id": "CL044",
+            "culinary_id": "CLN107",
+            "tag_id": "TAGK012"
+        },
+        {
+            "id": "CL045",
+            "culinary_id": "CLN107",
+            "tag_id": "TAGK025"
+        },
+        {
+            "id": "CL046",
+            "culinary_id": "CLN107",
+            "tag_id": "TAGK016"
+        },
+        {
+            "id": "CL047",
+            "culinary_id": "CLN107",
+            "tag_id": "TAGK019"
+        },
+        {
+            "id": "CL048",
+            "culinary_id": "CLN107",
+            "tag_id": "TAGK026"
+        },
+        {
+            "id": "CL049",
+            "culinary_id": "CLN107",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL050",
+            "culinary_id": "CLN108",
+            "tag_id": "TAGK002"
+        },
+        {
+            "id": "CL051",
+            "culinary_id": "CLN108",
+            "tag_id": "TAGK012"
+        },
+        {
+            "id": "CL052",
+            "culinary_id": "CLN108",
+            "tag_id": "TAGK015"
+        },
+        {
+            "id": "CL053",
+            "culinary_id": "CLN108",
+            "tag_id": "TAGK020"
+        },
+        {
+            "id": "CL054",
+            "culinary_id": "CLN108",
+            "tag_id": "TAGK026"
+        },
+        {
+            "id": "CL055",
+            "culinary_id": "CLN108",
+            "tag_id": "TAGK028"
+        },
+        {
+            "id": "CL056",
+            "culinary_id": "CLN108",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL057",
+            "culinary_id": "CLN109",
+            "tag_id": "TAGK003"
+        },
+        {
+            "id": "CL058",
+            "culinary_id": "CLN109",
+            "tag_id": "TAGK018"
+        },
+        {
+            "id": "CL059",
+            "culinary_id": "CLN109",
+            "tag_id": "TAGK020"
+        },
+        {
+            "id": "CL060",
+            "culinary_id": "CLN109",
+            "tag_id": "TAGK021"
+        },
+        {
+            "id": "CL061",
+            "culinary_id": "CLN109",
+            "tag_id": "TAGK026"
+        },
+        {
+            "id": "CL062",
+            "culinary_id": "CLN109",
+            "tag_id": "TAGK028"
+        },
+        {
+            "id": "CL063",
+            "culinary_id": "CLN109",
+            "tag_id": "TAGK030"
+        },
+
+        {
+            "id": "CL064",
+            "culinary_id": "CLN110",
+            "tag_id": "TAGK001"
+        },
+        {
+            "id": "CL065",
+            "culinary_id": "CLN110",
+            "tag_id": "TAGK012"
+        },
+        {
+            "id": "CL066",
+            "culinary_id": "CLN110",
+            "tag_id": "TAGK015"
+        },
+        {
+            "id": "CL067",
+            "culinary_id": "CLN110",
+            "tag_id": "TAGK021"
+        },
+        {
+            "id": "CL068",
+            "culinary_id": "CLN110",
+            "tag_id": "TAGK026"
+        },
+        {
+            "id": "CL069",
+            "culinary_id": "CLN110",
+            "tag_id": "TAGK028"
+        },
+        {
+            "id": "CL070",
+            "culinary_id": "CLN110",
+            "tag_id": "TAGK030"
+        }
+    ]

@@ -1,0 +1,133 @@
+[
+    {
+        "id": "TAGD001",
+        "name": "alam",
+        "category": "jenis_tempat"
+    },
+    {
+        "id": "TAGD002",
+        "name": "pegunungan",
+        "category": "jenis_tempat"
+    },
+    {
+        "id": "TAGD003",
+        "name": "danau",
+        "category": "jenis_tempat"
+    },
+    {
+        "id": "TAGD004",
+        "name": "taman",
+        "category": "jenis_tempat"
+    },
+    {
+        "id": "TAGD005",
+        "name": "landmark",
+        "category": "jenis_tempat"
+    },
+    {
+        "id": "TAGD006",
+        "name": "museum",
+        "category": "jenis_tempat"
+    },
+
+    {
+        "id": "TAGD007",
+        "name": "hiking",
+        "category": "aktivitas"
+    },
+    {
+        "id": "TAGD008",
+        "name": "camping",
+        "category": "aktivitas"
+    },
+    {
+        "id": "TAGD009",
+        "name": "instagramable",
+        "category": "aktivitas"
+    },
+    {
+        "id": "TAGD010",
+        "name": "piknik",
+        "category": "aktivitas"
+    },
+    {
+        "id": "TAGD011",
+        "name": "wisata keluarga",
+        "category": "aktivitas"
+    },
+
+    {
+        "id": "TAGD012",
+        "name": "shopping",
+        "category": "aktivitas"
+    },
+
+    {
+        "id": "TAGD013",
+        "name": "entertainment",
+        "category": "aktivitas"
+    },
+    {
+        "id": "TAGD014",
+        "name": "edukasi",
+        "category": "aktivitas"
+    },
+
+    {
+        "id": "TAGD016",
+        "name": "keluarga",
+        "category": "audience"
+    },
+    {
+        "id": "TAGD017",
+        "name": "pasangan",
+        "category": "audience"
+    },
+    {
+        "id": "TAGD018",
+        "name": "solo traveler",
+        "category": "audience"
+    },
+    {
+        "id": "TAGD019",
+        "name": "anak-anak",
+        "category": "audience"
+    },
+
+    {
+        "id": "TAGD020",
+        "name": "pagi",
+        "category": "waktu"
+    },
+    {
+        "id": "TAGD021",
+        "name": "siang",
+        "category": "waktu"
+    },
+    {
+        "id": "TAGD022",
+        "name": "sore",
+        "category": "waktu"
+    },
+    {
+        "id": "TAGD023",
+        "name": "malam",
+        "category": "waktu"
+    },
+
+    {
+        "id": "TAGD027",
+        "name": "top rated",
+        "category": "popularitas"
+    },
+    {
+        "id": "TAGD028",
+        "name": "hidden gems",
+        "category": "popularitas"
+    },
+    {
+        "id": "TAGD029",
+        "name": "viral",
+        "category": "popularitas"
+    }
+]

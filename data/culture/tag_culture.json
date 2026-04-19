@@ -1,0 +1,101 @@
+[
+    {
+        "id": "TAGC001",
+        "name": "sejarah",
+        "category": "kategori"
+    },
+    {
+        "id": "TAGC002",
+        "name": "tradisi",
+        "category": "kategori"
+    },
+    {
+        "id": "TAGC003",
+        "name": "seni",
+        "category": "kategori"
+    },
+    {
+        "id": "TAGC004",
+        "name": "arsitektur",
+        "category": "kategori"
+    },
+    {
+        "id": "TAGC005",
+        "name": "festival",
+        "category": "kategori"
+    },
+
+    {
+        "id": "TAGC006",
+        "name": "kolonial",
+        "category": "topik"
+    },
+    {
+        "id": "TAGC007",
+        "name": "modern",
+        "category": "topik"
+    },
+    {
+        "id": "TAGC008",
+        "name": "lokal",
+        "category": "topik"
+    },
+    {
+        "id": "TAGC009",
+        "name": "religi",
+        "category": "topik"
+    },
+
+    {
+        "id": "TAGC010",
+        "name": "tari",
+        "category": "jenis_budaya"
+    },
+    {
+        "id": "TAGC011",
+        "name": "musik",
+        "category": "jenis_budaya"
+    },
+    {
+        "id": "TAGC012",
+        "name": "kuliner tradisional",
+        "category": "jenis_budaya"
+    },
+    {
+        "id": "TAGC013",
+        "name": "pakaian adat",
+        "category": "jenis_budaya"
+    },
+
+    {
+        "id": "TAGC014",
+        "name": "museum",
+        "category": "lokasi"
+    },
+    {
+        "id": "TAGC015",
+        "name": "situs sejarah",
+        "category": "lokasi"
+    },
+    {
+        "id": "TAGC016",
+        "name": "kawasan budaya",
+        "category": "lokasi"
+    },
+
+    {
+        "id": "TAGC019",
+        "name": "masa kolonial",
+        "category": "era"
+    },
+    {
+        "id": "TAGC020",
+        "name": "pasca kemerdekaan",
+        "category": "era"
+    },
+    {
+        "id": "TAGC021",
+        "name": "modern",
+        "category": "era"
+    }
+]

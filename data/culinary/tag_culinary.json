@@ -1,0 +1,149 @@
+[
+    {
+        "id": "TAGK001",
+        "name": "sunda",
+        "category": "jenis_makanan"
+    },
+    {
+        "id": "TAGK002",
+        "name": "street food",
+        "category": "jenis_makanan"
+    },
+    {
+        "id": "TAGK003",
+        "name": "cafe",
+        "category": "jenis_makanan"
+    },
+    {
+        "id": "TAGK004",
+        "name": "seafood",
+        "category": "jenis_makanan"
+    },
+    {
+        "id": "TAGK005",
+        "name": "dessert",
+        "category": "jenis_makanan"
+    },
+    {
+        "id": "TAGK006",
+        "name": "fast food",
+        "category": "jenis_makanan"
+    },
+
+    {
+        "id": "TAGK011",
+        "name": "legendaris",
+        "category": "experience"
+    },
+    {
+        "id": "TAGK012",
+        "name": "viral",
+        "category": "experience"
+    },
+    {
+        "id": "TAGK013",
+        "name": "hidden gem",
+        "category": "experience"
+    },
+    {
+        "id": "TAGK014",
+        "name": "favorit lokal",
+        "category": "experience"
+    },
+
+    {
+        "id": "TAGK015",
+        "name": "indoor",
+        "category": "tempat"
+    },
+    {
+        "id": "TAGK016",
+        "name": "outdoor",
+        "category": "tempat"
+    },
+    {
+        "id": "TAGK017",
+        "name": "rooftop",
+        "category": "tempat"
+    },
+    {
+        "id": "TAGK018",
+        "name": "instagramable",
+        "category": "tempat"
+    },
+
+    {
+        "id": "TAGK019",
+        "name": "nongkrong",
+        "category": "audience"
+    },
+    {
+        "id": "TAGK020",
+        "name": "keluarga",
+        "category": "audience"
+    },
+    {
+        "id": "TAGK021",
+        "name": "dating",
+        "category": "audience"
+    },
+    {
+        "id": "TAGK022",
+        "name": "wfc",
+        "category": "audience"
+    },
+
+    {
+        "id": "TAGK023",
+        "name": "24 jam",
+        "category": "waktu"
+    },
+    {
+        "id": "TAGK024",
+        "name": "pagi",
+        "category": "waktu"
+    },
+    {
+        "id": "TAGK025",
+        "name": "malam",
+        "category": "waktu"
+    },
+
+    {
+        "id": "TAGK026",
+        "name": "dine-in",
+        "category": "layanan"
+    },
+    {
+        "id": "TAGK027",
+        "name": "takeaway",
+        "category": "layanan"
+    },
+    {
+        "id": "TAGK028",
+        "name": "delivery",
+        "category": "layanan"
+    },
+
+    {
+        "id": "TAGK029",
+        "name": "pedas",
+        "category": "atribut"
+    },
+    {
+        "id": "TAGK030",
+        "name": "halal",
+        "category": "atribut"
+    },
+    {
+        "id": "TAGK031",
+        "name": "manis",
+        "category": "atribut"
+    },
+    {
+        "id": "TAGK032",
+        "name": "hangat",
+        "category": "atribut"
+    },
+
+]
